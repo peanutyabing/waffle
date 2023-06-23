@@ -33,6 +33,7 @@
     ]
   },
   "devDependencies": {
+    "cypress": "^12.15.0",
     "gh-pages": "^5.0.0",
     "jest": "^27.5.1",
     "react-test-renderer": "^18.2.0"

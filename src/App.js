@@ -29,7 +29,7 @@ function App() {
             <img src={menuIcon} alt="Menu" />
           </Button>
           <Button variant="dark" onClick={() => setModalShow(true)}>
-            <img src={helpIcon} alt="Menu" />
+            <img src={helpIcon} alt="Help" />
           </Button>
         </div>
         <h1>WAFFLE</h1>
